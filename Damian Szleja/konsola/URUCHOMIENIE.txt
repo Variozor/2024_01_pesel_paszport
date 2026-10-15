@@ -1,0 +1,14 @@
+Autor: Damian Szleja
+
+Wymagane Java 17 lub nowsza. Wszystkie pliki ZIP najpierw rozpakuj.
+Windows: uruchom uruchom.bat.
+Linux/macOS: w terminalu wykonaj sh uruchom.sh.
+Bezpośrednio w katalogu aplikacji: java -jar aplikacja.jar
+Aplikacje desktopowe wymagają graficznego pulpitu.
+
+Ponowna kompilacja przy użyciu JDK:
+javac -encoding UTF-8 Main.java
+java Main
+
+Projekt nie wymaga bibliotek zewnętrznych ani Maven/Gradle.
+Każdy projekt kompiluj osobno, ponieważ każdy zawiera klasę Main.

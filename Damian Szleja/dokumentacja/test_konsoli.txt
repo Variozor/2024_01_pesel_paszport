@@ -1,0 +1,9 @@
+Dane wejściowe:
+abc
+55030101193
+
+Wynik rzeczywistego uruchomienia:
+Podaj numer PESEL (11 cyfr):
+Numer musi zawierać dokładnie 11 cyfr. Podaj ponownie:
+Mężczyzna
+Suma kontrolna jest zgodna.
